@@ -30,7 +30,6 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
 
     [Header("Bonuses")]
-    public float airControl;
     public float coyoteTime;
     public float coyoteTimeCounter;
     public float jumpBufferTime;
